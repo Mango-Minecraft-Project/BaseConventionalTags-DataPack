@@ -1,0 +1,16 @@
+{
+  "values": [
+    "#minecraft:logs",
+    "#c:logs/oak",
+    "#c:logs/spruce",
+    "#c:logs/birch",
+    "#c:logs/jungle",
+    "#c:logs/acacia",
+    "#c:logs/dark_oak",
+    "#c:logs/crimson",
+    "#c:logs/warped",
+    "#c:logs/mangrove",
+    "#c:logs/bamboo",
+    "#c:logs/cherry"
+  ]
+}
